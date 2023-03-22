@@ -1,5 +1,4 @@
 # CRUD_Admin_Api
-mongodb
 Abstract
 A simple CRUD api backend using Mongodb as the database.
 
@@ -24,4 +23,5 @@ create route folder to define different routes. we define the CRUD api operation
 
 How to use:
 =================
-
+Run uvicorn api:app
+open http://127.0.0.1:8000/docs
